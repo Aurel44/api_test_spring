@@ -25,4 +25,5 @@ public class Post {
     private String post_title;
     private String post_text;
     private String post_pic;
+
 }
